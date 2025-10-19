@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
             BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
             BottomNavigationBarItem(
               icon: Icon(Icons.person),
-              label: "Settings",
+              label: "Setting",
             ),
           ],
         ),
