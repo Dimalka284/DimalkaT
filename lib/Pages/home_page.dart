@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
                           style: TextStyle(fontSize: 16, color: mainTextColor),
                         ),
                         Text(
-                          "Places",
+                          "Sri Lanka is a Awesome place",
                           style: TextStyle(
                             fontSize: 40,
                             color: mainTextColor,
