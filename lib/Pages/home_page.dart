@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          "Awesome",
+                          "Awesome Place",
                           style: TextStyle(fontSize: 16, color: mainTextColor),
                         ),
                         Text(
